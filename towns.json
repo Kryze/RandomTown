@@ -16,6 +16,14 @@
 },
 {
       "id" : 2,
+      "town" : "Karaj",
+      "country" : "Iran",
+      "description" : "Karaj, the capital of Alborz is the fourth-largest city in the country which hosts a population around 2 millions and also renowned because of its multi-cultural society which represents approxmiately all races, languages, and cultures in Iran so people call it small Iran.",
+      "pictureUrl" : "https://commons.wikimedia.org/wiki/File:%DA%A9%D8%B1%D8%AC.jpg#/media/File:کرج.jpg",
+	  "contributor" : "Nikronic"
+},
+{
+      "id" : 3,
       "town" : "",
       "country" : "",
       "description" : "",
