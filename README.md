@@ -12,5 +12,5 @@ To contribute, fill the json file towns.json in english with the requested infor
       "country" : "",
       "description" : "",
       "pictureUrl" : "",
-	  "contributor" : ""
+	    "contributor" : ""
 }
