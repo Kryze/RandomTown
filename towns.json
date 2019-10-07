@@ -29,4 +29,13 @@
       "description" : "",
       "pictureUrl" : "",
 	  "contributor" : ""
+},
+{
+      "id": 3,
+      "town": "Dinan",
+      "country": "France",
+      "description": "Dinan is a walled Breton town and a commune in the Côtes-d'Armor department in northwestern France. On 1 January 2018, the former commune of Léhon was merged into Dinan.",
+      "pictureUrl": "https://en.wikipedia.org/wiki/File:Chateau_Dinan2.jpg",
+      "contributor": "gchagan36"
 }
+
