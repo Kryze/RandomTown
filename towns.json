@@ -16,9 +16,18 @@
 },
 {
       "id" : 2,
+      "town" : "King City, Ontario",
+      "country" : "Canada",
+      "description" : "King City is an unincorporated Canadian community in King, Ontario located north of Toronto. It is the largest community in King Township, with 2,396 dwellings and a population of 6,970 as of the Canada 2016 Census.",
+      "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/9/90/King_Township_Museum_in_2007.jpg",
+	  "contributor" : "RyeGuy"
+},
+{
+      "id" : 3,
       "town" : "",
       "country" : "",
       "description" : "",
       "pictureUrl" : "",
-	  "contributor" : ""
-}
+	"contributor" : ""
+},
+
