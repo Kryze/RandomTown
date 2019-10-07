@@ -8,6 +8,14 @@
 },
 {
       "id" : 1,
+      "town" : "Denver, Colorado",
+      "country" : "USA",
+      "description" : "Denver, the capital of Colorado, is an American metropolis dating to the Old West era. Larimer Square, the city’s oldest block, features landmark 19th-century buildings. Museums include the Denver Art Museum, an ultramodern complex known for its collection of indigenous works, and the mansion of famed Titanic survivor Molly Brown. Denver is also a jumping-off point for ski resorts in the nearby Rocky Mountains.",
+      "pictureUrl" : "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_280,q_50,w_640/v1/clients/denver/4f616c91_3217_4da7_807e_ede1e41bf98e_276dbd3a-8822-49ba-9246-41767b077386.jpg",
+	  "contributor" : "trevlewis"
+},
+{
+      "id" : 2,
       "town" : "",
       "country" : "",
       "description" : "",
