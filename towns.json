@@ -1,17 +1,35 @@
 {
       "id" : 0,
-      "town" : "Fortaleza",
-      "country" : "Brazil",
-      "description" : "Fortaleza é a capital do estado do Ceará, no Nordeste brasileiro. A cidade é conhecida por suas praias, com falésias vermelhas, palmeiras, dunas e lagoas. ",
-      "pictureUrl" : "https://blog.bluesol.com.br/wp-content/uploads/2019/02/Energia-Solar-Em-Fortaleza-Informa%C3%A7%C3%B5es-e-Or%C3%A7amento-Gr%C3%A1tis-_-capa-blog-752x440.jpg",
-	  "contributor" : "1bertovalente"
+      "town" : "Markham",
+      "country" : "Canada",
+      "description" : "It is Regional Municipality of York within the Greater Toronto Area of Southern Ontario, Canada",
+      "pictureUrl" : "https://media.licdn.com/dms/image/C4E1BAQFWakCnTFiRzA/company-background_10000/0?e=2159024400&v=beta&t=CjHx9lTvC6l3-MqakK2R9AAL7c3JAWX6-RzRVEtOTIY",
+	    "contributor" : "RarePep8"
+
 },
 {
       "id" : 1,
+      "town" : "Denver, Colorado",
+      "country" : "USA",
+      "description" : "Denver, the capital of Colorado, is an American metropolis dating to the Old West era. Larimer Square, the city’s oldest block, features landmark 19th-century buildings. Museums include the Denver Art Museum, an ultramodern complex known for its collection of indigenous works, and the mansion of famed Titanic survivor Molly Brown. Denver is also a jumping-off point for ski resorts in the nearby Rocky Mountains.",
+      "pictureUrl" : "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_280,q_50,w_640/v1/clients/denver/4f616c91_3217_4da7_807e_ede1e41bf98e_276dbd3a-8822-49ba-9246-41767b077386.jpg",
+	    "contributor" : "trevlewis"
+},
+{
+      "id" : 2,
+      "town" : "Fortaleza",
+      "country" : "Brazil",
+      "description" : "Fortaleza é a capital do estado do Ceará, no Nordeste brasileiro. A cidade é conhecida por suas praias, com falésias vermelhas, palmeiras, dunas e lagoas.",
+      "pictureUrl" : "https://blog.bluesol.com.br/wp-content/uploads/2019/02/Energia-Solar-Em-Fortaleza-Informa%C3%A7%C3%B5es-e-Or%C3%A7amento-Gr%C3%A1tis-_-capa-blog-752x440.jpg",
+	    "contributor" : "1bertovalente"
+},
+
+{
+      "id" : 3,
       "town" : "",
       "country" : "",
       "description" : "",
       "pictureUrl" : "",
-	  "contributor" : ""
-}
+	    "contributor" : ""
+},
 
