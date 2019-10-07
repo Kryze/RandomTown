@@ -1,10 +1,10 @@
 {
       "id" : 0,
-      "town" : "",
-      "country" : "",
-      "description" : "",
-      "pictureUrl" : "",
-	  "contributor" : ""
+      "town" : "Fortaleza",
+      "country" : "Brazil",
+      "description" : "Fortaleza é a capital do estado do Ceará, no Nordeste brasileiro. A cidade é conhecida por suas praias, com falésias vermelhas, palmeiras, dunas e lagoas. ",
+      "pictureUrl" : "https://blog.bluesol.com.br/wp-content/uploads/2019/02/Energia-Solar-Em-Fortaleza-Informa%C3%A7%C3%B5es-e-Or%C3%A7amento-Gr%C3%A1tis-_-capa-blog-752x440.jpg",
+	  "contributor" : "1bertovalente"
 },
 {
       "id" : 1,
@@ -14,3 +14,4 @@
       "pictureUrl" : "",
 	  "contributor" : ""
 }
+
