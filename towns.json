@@ -16,9 +16,9 @@
 },
 {
       "id" : 2,
-      "town" : "",
-      "country" : "",
-      "description" : "",
-      "pictureUrl" : "",
-	  "contributor" : ""
+      "town" : "Kano",
+      "country" : "Nigeria",
+      "description" : "Kano is the state capital of Kano State in North West, Nigeria. It is situated in the Sahelian geographic region, south of the Sahara. Kano is the commercial nerve centre of Northern Nigeria and is the second largest city in Nigeria",
+      "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KanofromDalaHill.jpg/250px-KanofromDalaHill.jpg",
+	  "contributor" : "Mubarak Daha Isa"
 }
