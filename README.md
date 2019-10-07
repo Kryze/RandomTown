@@ -4,7 +4,7 @@ The aim of this project is to discover unknown town knowned by other users !
 
 # Contributing
 
-To contribute, fill the json file towns.json with the requested informations of a town you know ! :)
+To contribute, fill the json file towns.json in english with the requested informations of a town you know ! :)
 
 {
       "id" : 0,
