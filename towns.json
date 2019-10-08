@@ -53,5 +53,12 @@
       "description" : "Kano is the state capital of Kano State in North West, Nigeria. It is situated in the Sahelian geographic region, south of the Sahara. Kano is the commercial nerve centre of Northern Nigeria and is the second largest city in Nigeria",
       "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KanofromDalaHill.jpg/250px-KanofromDalaHill.jpg",
 	    "contributor" : "Mubarak Daha Isa"
+},
+{
+      "id": 7,
+      "town" : "Meteora",
+      "country" : "Greece",
+      "description" : "The Meteora is a rock formation in central Greece hosting one of the largest and most precipitously built complexes of monasteries. The six (of an original twenty four) monasteries are built on immense natural pillars and hill-like rounded boulders that dominate the local area.",
+      "pictureUrl" : "https://greece.greekreporter.com/files/METEORA-1-1068x711.jpg",
+	    "contributor" : "Dionysis Nikolopoulos"
 }
-
