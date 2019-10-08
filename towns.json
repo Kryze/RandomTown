@@ -180,14 +180,25 @@
 },
 {
       "id" : 15,
+      "town" : "Borken",
+      "country" : "Germany",
+      "description" : "Borken is a small city in the West of Germany with a heritage tracing back into medieval times, with castles and towers being remnants of those days. With it's surrounding municipality it's the home of approximately 42000 residents.",
+      "pictureUrl" : "https://www.borken.de/fileadmin/daten/mandanten/kreisstadt/Bilder/Fotos/Touristik/Stadtt%C3%BCrme___Innenstadt/Markt_23.jpg",
+      "coordinates":{
+        "latitude": "6.866000",
+        "longitude": "51.851000"
+      },
+      "contributor" : "sthaeling"
+},
+{
+      "id" : 16,
       "town" : "",
       "country" : "",
       "description" : "",
       "pictureUrl" : "",
       "coordinates":{
-        "latitude": "", 
+        "latitude": "",
         "longitude": ""
       },
       "contributor" : ""
 },
-
