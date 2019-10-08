@@ -53,7 +53,6 @@
       "description" : "Kano is the state capital of Kano State in North West, Nigeria. It is situated in the Sahelian geographic region, south of the Sahara. Kano is the commercial nerve centre of Northern Nigeria and is the second largest city in Nigeria",
       "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KanofromDalaHill.jpg/250px-KanofromDalaHill.jpg",
 	    "contributor" : "Mubarak Daha Isa"
-
 },
 {
       "id": 7,
@@ -65,10 +64,10 @@
 },
 {
       "id": 8,
-      "town": "",
-      "country": "",
-      "description": "",
-      "pictureUrl": "",
-      "contributor": ""
+      "town" : "Hallstatt",
+      "country" : "Austria",
+      "description" : "Hallstatt is a small town in the district of Gmunden, in the Austrian state of Upper Austria. Situated between the southwestern shore of Hallstätter See and the steep slopes of the Dachstein massif, the town lies in Salzkammergut region, on the national road linking Salzburg and Graz.",
+      "pictureUrl" : "https://en.wikipedia.org/wiki/Hallstatt#/media/File:Hallstatt_-_Zentrum_.JPG",
+	    "contributor" : "Jeremy850407"
 }
 
