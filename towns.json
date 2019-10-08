@@ -69,5 +69,13 @@
       "description" : "Hallstatt is a small town in the district of Gmunden, in the Austrian state of Upper Austria. Situated between the southwestern shore of Hallstätter See and the steep slopes of the Dachstein massif, the town lies in Salzkammergut region, on the national road linking Salzburg and Graz.",
       "pictureUrl" : "https://en.wikipedia.org/wiki/Hallstatt#/media/File:Hallstatt_-_Zentrum_.JPG",
 	    "contributor" : "Jeremy850407"
+},
+{
+      "id": 9,
+      "town": "Aachen",
+      "country": "Germany",
+      "description": "Aachen is a small town that shelters the RWTH Aachen, one of the most prestigious university of Germany. Besides, it is located on the border with the Netherlands and Belgium.",
+      "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aachen_Germany_Imperial-Cathedral-01.jpg/1200px-Aachen_Germany_Imperial-Cathedral-01.jpg",
+      "contributor": "marcelodof"
 }
 
