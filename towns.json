@@ -101,4 +101,13 @@
   "description" : "Founded in 1737, San Jose today is a sprawling metropolis. Costa Rica’s capital and the largest city in the country, San Jose is considered to be among the most cosmopolitan cities in Latin America.",
   "pictureUrl" : "https://www.govisitcostarica.com/images/photos/full-san-jose-downtow-with-stadium.jpg",
   "contributor" : "rodrigo-garcia-leon"
+},
+{
+  "id": 13,
+  "town" : "Meteora",
+  "country" : "Greece",
+  "description" : "The Meteora is a rock formation in central Greece hosting one of the largest and most precipitously built complexes of monasteries. The six (of an original twenty four) monasteries are built on immense natural pillars and hill-like rounded boulders that dominate the local area.",
+  "pictureUrl" : "https://greece.greekreporter.com/files/METEORA-1-1068x711.jpg",
+	"contributor" : "Dionysis Nikolopoulos"
 }
+
