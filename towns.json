@@ -85,4 +85,12 @@
   "description": "Edmonton is the capital city of the province of Alberta, Canada. Sometimes called Canada's Gateway to the North, Edmonton is the farthest north of Canada's large cities and has important road, rail and air transportation links. Edmonton is famous for its rich natural resources, history, culture, and a host of many other attractions.",
   "pictureUrl": "https://www.csg.ca/images/news/20190409150530210-raw.jpg",
   "contributor": "ChingChang9"
+},
+{
+  "id": 11,
+  "town" : "Bangkok",
+  "country" : "Thailand",
+  "description" : "Bangkok is the capital and most populous city of Thailand. It is known in Thai as Krung Thep Maha Nakhon or simply Krung Thep.",
+  "pictureUrl" : "https://en.wikipedia.org/wiki/Bangkok#/media/File:Bangkok_montage_3.jpg",
+	"contributor" : "raksit31667"
 }
