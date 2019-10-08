@@ -53,5 +53,12 @@
       "description" : "Kano is the state capital of Kano State in North West, Nigeria. It is situated in the Sahelian geographic region, south of the Sahara. Kano is the commercial nerve centre of Northern Nigeria and is the second largest city in Nigeria",
       "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KanofromDalaHill.jpg/250px-KanofromDalaHill.jpg",
 	    "contributor" : "Mubarak Daha Isa"
-}
-
+},
+{
+      "id": 7,
+      "town": "Pinetown",
+      "country": "South Africa",
+      "description": "Pinetown is a town that is part of the eThekwini Metropolitan Municipality, just inland from Durban in KwaZulu-Natal, South Africa. Pinetown has a population of 144,026 acording to the 2011 census. 55.4% of residence speak isiZulu, 31.4% speak English, 3.8% speak Afrikaans, and 3.3% speak isiXhosa.",
+      "pictureUrl": "https://commons.wikimedia.org/wiki/File:Pinetown_N3_-_panoramio.jpg",
+      "contributor": "terayza"
+},
