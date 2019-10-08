@@ -53,5 +53,22 @@
       "description" : "Kano is the state capital of Kano State in North West, Nigeria. It is situated in the Sahelian geographic region, south of the Sahara. Kano is the commercial nerve centre of Northern Nigeria and is the second largest city in Nigeria",
       "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KanofromDalaHill.jpg/250px-KanofromDalaHill.jpg",
 	    "contributor" : "Mubarak Daha Isa"
+
+},
+{
+      "id": 7,
+      "town": "Manchester",
+      "country": "United Kingdom",
+      "description": "Manchester is a city in North West England, the fifth largest city in the United Kingdom. Manchester has many places for the arts, places for learning, businesses providing media as well as lots of shops. It has two well-known football teams, Manchester United and Manchester City.",
+      "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Manchester_Montage_2017.jpg",
+      "contributor": "ann-dev"
+},
+{
+      "id": 8,
+      "town": "",
+      "country": "",
+      "description": "",
+      "pictureUrl": "",
+      "contributor": ""
 }
 
