@@ -166,4 +166,28 @@
   },
 	"contributor" : "Dionysis Nikolopoulos"
 }
+{
+      "id" : 14,
+      "town" : "Fortaleza",
+      "country" : "Brazil",
+      "description" : "Fortaleza is a capital of the state of Ceará, in northeastern Brazil. The city is known for its beaches, with red cliffs, palm trees, dunes and lagoons",
+      "pictureUrl" : "https://blog.bluesol.com.br/wp-content/uploads/2019/02/Energia-Solar-Em-Fortaleza-Informa%C3%A7%C3%B5es-e-Or%C3%A7amento-Gr%C3%A1tis-_-capa-blog-752x440.jpg",
+      "coordinates":{
+        "latitude": "-3.71839", 
+        "longitude": "-38.5434 3"
+      },
+      "contributor" : "1bertovalente"
+},
+{
+      "id" : 15,
+      "town" : "",
+      "country" : "",
+      "description" : "",
+      "pictureUrl" : "",
+      "coordinates":{
+        "latitude": "", 
+        "longitude": ""
+      },
+      "contributor" : ""
+},
 
