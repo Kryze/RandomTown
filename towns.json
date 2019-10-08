@@ -93,4 +93,12 @@
   "description" : "Bangkok is the capital and most populous city of Thailand. It is known in Thai as Krung Thep Maha Nakhon or simply Krung Thep.",
   "pictureUrl" : "https://en.wikipedia.org/wiki/Bangkok#/media/File:Bangkok_montage_3.jpg",
 	"contributor" : "raksit31667"
+},
+{
+  "id": 12,
+  "town" : "San José",
+  "country" : "Costa Rica",
+  "description" : "Founded in 1737, San Jose today is a sprawling metropolis. Costa Rica’s capital and the largest city in the country, San Jose is considered to be among the most cosmopolitan cities in Latin America.",
+  "pictureUrl" : "https://www.govisitcostarica.com/images/photos/full-san-jose-downtow-with-stadium.jpg",
+  "contributor" : "rodrigo-garcia-leon"
 }
