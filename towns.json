@@ -53,5 +53,13 @@
       "description" : "Kano is the state capital of Kano State in North West, Nigeria. It is situated in the Sahelian geographic region, south of the Sahara. Kano is the commercial nerve centre of Northern Nigeria and is the second largest city in Nigeria",
       "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KanofromDalaHill.jpg/250px-KanofromDalaHill.jpg",
 	    "contributor" : "Mubarak Daha Isa"
+},
+{
+      "id": 7,
+      "town" : "Bangkok",
+      "country" : "Thailand",
+      "description" : "Bangkok is the capital and most populous city of Thailand. It is known in Thai as Krung Thep Maha Nakhon or simply Krung Thep.",
+      "pictureUrl" : "https://en.wikipedia.org/wiki/Bangkok#/media/File:Bangkok_montage_3.jpg",
+	    "contributor" : "raksit31667"
 }
 
