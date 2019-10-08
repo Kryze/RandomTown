@@ -56,6 +56,14 @@
 },
 {
       "id": 7,
+      "town": "Manchester",
+      "country": "United Kingdom",
+      "description": "Manchester is a city in North West England, the fifth largest city in the United Kingdom. Manchester has many places for the arts, places for learning, businesses providing media as well as lots of shops. It has two well-known football teams, Manchester United and Manchester City.",
+      "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Manchester_Montage_2017.jpg",
+      "contributor": "ann-dev"
+},
+{
+      "id": 8,
       "town" : "Hallstatt",
       "country" : "Austria",
       "description" : "Hallstatt is a small town in the district of Gmunden, in the Austrian state of Upper Austria. Situated between the southwestern shore of Hallstätter See and the steep slopes of the Dachstein massif, the town lies in Salzkammergut region, on the national road linking Salzburg and Graz.",
