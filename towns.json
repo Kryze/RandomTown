@@ -55,7 +55,31 @@
   "contributor": "Mubarak Daha Isa"
 },
 {
-  "id": 7,
+   "id": 7,
+   "town": "Manchester",
+   "country": "United Kingdom",
+   "description": "Manchester is a city in North West England, the fifth largest city in the United Kingdom. Manchester has many places for the arts, places for learning, businesses providing media as well as lots of shops. It has two well-known football teams, Manchester United and Manchester City.",
+   "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Manchester_Montage_2017.jpg",
+   "contributor": "ann-dev"
+},
+{
+   "id": 8,
+   "town" : "Hallstatt",
+   "country" : "Austria",
+   "description" : "Hallstatt is a small town in the district of Gmunden, in the Austrian state of Upper Austria. Situated between the southwestern shore of Hallstätter See and the steep slopes of the Dachstein massif, the town lies in Salzkammergut region, on the national road linking Salzburg and Graz.",
+   "pictureUrl" : "https://en.wikipedia.org/wiki/Hallstatt#/media/File:Hallstatt_-_Zentrum_.JPG",
+	 "contributor" : "Jeremy850407"
+},
+{
+   "id": 9,
+   "town": "Aachen",
+   "country": "Germany",
+   "description": "Aachen is a small town that shelters the RWTH Aachen, one of the most prestigious university of Germany. Besides, it is located on the border with the Netherlands and Belgium.",
+   "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aachen_Germany_Imperial-Cathedral-01.jpg/1200px-Aachen_Germany_Imperial-Cathedral-01.jpg",
+   "contributor": "marcelodof"
+},
+{
+  "id": 10,
   "town": "Edmonton",
   "country": "Canada",
   "description": "Edmonton is the capital city of the province of Alberta, Canada. Sometimes called Canada's Gateway to the North, Edmonton is the farthest north of Canada's large cities and has important road, rail and air transportation links. Edmonton is famous for its rich natural resources, history, culture, and a host of many other attractions.",
