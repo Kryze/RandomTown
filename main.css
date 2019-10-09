@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "PoetsenOne";
+  src: url("./PoetsenOne-Regular.ttf");
+}
+#cityList > * {
+  flex-direction: row;
+}
+#cityList > *:nth-child(even) {
+  flex-direction: row-reverse;
+}
+#cityList div {
+  background-color: #e6e6e6;
+  border-radius: 40px;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  margin: 15px;
+  margin-bottom: 6vh;
+  margin-top: 45px;
+  transition: box-shadow 700ms ease;
+}
+#cityList div:hover {
+  box-shadow: 2px 2px 20px #7e7e7e;
+}
+#cityList div a {
+  font-size: 50px;
+  color: black;
+  font-family: sans-serif;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin-top: 0;
+  width: calc(99% - 30px);
+}
+#cityList div a:hover {
+  box-shadow: none;
+}
+#cityList div a span {
+  font-size: 20px;
+  vertical-align: top;
+}
+#cityList div div {
+  font-family: helvetica;
+  font-size: 20px;
+  width: 40%;
+  text-align: left;
+}
+#cityList div div:hover {
+  box-shadow: none;
+}
+#cityList div img {
+  border-radius: 20px;
+  min-width: 45%;
+  max-width: 50%;
+  max-height: 50%;
+}
+#cityList div img:hover {
+  box-shadow: none;
+}
+#cityList div .flexDiv {
+  display: flex;
+  flex-direction: inherit;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 99% !important;
+}
+
+.titleAndSearch h1 {
+  font-size: 80px;
+  font-family: PoetsenOne;
+  margin: 30px;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -57,10 +57,106 @@ export var townData = [
   },
   {
     id : 7,
+    townName : "Manchester",
+    country : "United Kingdom",
+    description : "Manchester is a city in North West England, the fifth largest city in the United Kingdom. Manchester has many places for the arts, places for learning, businesses providing media as well as lots of shops. It has two well-known football teams, Manchester United and Manchester City.",
+    pictureUrl : "https://upload.wikimedia.org/wikipedia/commons/c/c5/Manchester_Montage_2017.jpg",
+    coordinates :{
+      latitude : "53.480759",
+      longitude : "-2.242631"
+   },
+    contributor : "ann-dev"
+  },
+  {
+      id : 8,
+      townName : "Hallstatt",
+      country : "Austria",
+      description : "Hallstatt is a small town in the district of Gmunden, in the Austrian state of Upper Austria. Situated between the southwestern shore of Hallstätter See and the steep slopes of the Dachstein massif, the town lies in Salzkammergut region, on the national road linking Salzburg and Graz.",
+      pictureUrl : "https://en.wikipedia.org/wiki/Hallstatt#/media/File:Hallstatt_-_Zentrum_.JPG",
+      coordinates :{
+        latitude : "47.557281",
+        longitude : "13.646960"
+     },
+      contributor : "Jeremy850407"
+  },
+  {
+      id : 9,
+      townName : "Aachen",
+      country : "Germany",
+      description : "Aachen is a small town that shelters the RWTH Aachen, one of the most prestigious university of Germany. Besides, it is located on the border with the Netherlands and Belgium.",
+      pictureUrl : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aachen_Germany_Imperial-Cathedral-01.jpg/1200px-Aachen_Germany_Imperial-Cathedral-01.jpg",
+      coordinates :{
+        latitude : "50.775345",
+        longitude : "6.083887"
+     },
+      contributor : "marcelodof"
+  },
+  {
+    id : 10,
     townName : "Edmonton",
     country : "Canada",
     description : "Edmonton is the capital of Alberta (Canada), whose economy is closely tied to the oil export industries, in the province. Its relatively small population is offset by the city's wide-spread, preserving many vast natural spaces, up to the city center. Being extremely landlocked, the air is quite dry and the temperature unstable. The high latitude results in a true winter lasting over half the year",
     pictureUrl : "https://upload.wikimedia.org/wikipedia/commons/9/94/Downtown-Skyline-Edmonton-Alberta-Canada-Stitch-01.jpg",
     contributor : "Voovs"
+  },
+  {
+     id : 11,
+     townName : "Bangkok",
+     country : "Thailand",
+     description : "Bangkok is the capital and most populous city of Thailand. It is known in Thai as Krung Thep Maha Nakhon or simply Krung Thep.",
+     pictureUrl : "https://en.wikipedia.org/wiki/Bangkok#/media/File:Bangkok_montage_3.jpg",
+     coordinates :{
+       latitude : "13.756331",
+       longitude : "100.501762"
+    },
+  	contributor : "raksit31667"
+  },
+  {
+     id : 12,
+     townName : "San José",
+     country : "Costa Rica",
+     description : "Founded in 1737, San Jose today is a sprawling metropolis. Costa Rica’s capital and the largest city in the country, San Jose is considered to be among the most cosmopolitan cities in Latin America.",
+     pictureUrl : "https://www.govisitcostarica.com/images/photos/full-san-jose-downtow-with-stadium.jpg",
+     coordinates :{
+       latitude : "9.928069",
+       longitude : "-84.090729"
+    },
+     contributor : "rodrigo-garcia-leon"
+  },
+  {
+     id : 13,
+     townName : "Meteora",
+     country : "Greece",
+     description : "The Meteora is a rock formation in central Greece hosting one of the largest and most precipitously built complexes of monasteries. The six (of an original twenty four) monasteries are built on immense natural pillars and hill-like rounded boulders that dominate the local area.",
+     pictureUrl : "https://greece.greekreporter.com/files/METEORA-1-1068x711.jpg",
+     coordinates :{
+       latitude : "39.717419",
+       longitude : "21.638590"
+    },
+  	contributor : "Dionysis Nikolopoulos"
+  },
+  {
+         id : 14,
+         townName : "Fortaleza",
+         country : "Brazil",
+         description : "Fortaleza is a capital of the state of Ceará, in northeastern Brazil. The city is known for its beaches, with red cliffs, palm trees, dunes and lagoons",
+         pictureUrl : "https://blog.bluesol.com.br/wp-content/uploads/2019/02/Energia-Solar-Em-Fortaleza-Informa%C3%A7%C3%B5es-e-Or%C3%A7amento-Gr%C3%A1tis-_-capa-blog-752x440.jpg",
+         coordinates :{
+           latitude : "-3.71839",
+           longitude : "-38.5434 3"
+        },
+         contributor : "1bertovalente"
+  },
+  {
+         id : 15,
+         townName : "Borken",
+         country : "Germany",
+         description : "Borken is a small city in the West of Germany with a heritage tracing back into medieval times, with castles and towers being remnants of those days. With it's surrounding municipality it's the home of approximately 42000 residents.",
+         pictureUrl : "https://www.borken.de/fileadmin/daten/mandanten/kreisstadt/Bilder/Fotos/Touristik/Stadtt%C3%BCrme___Innenstadt/Markt_23.jpg",
+         coordinates :{
+           latitude : "6.866000",
+           longitude : "51.851000"
+        },
+         contributor : "sthaeling"
   }
 ]

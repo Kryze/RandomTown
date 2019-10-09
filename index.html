@@ -2,16 +2,16 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>City site</title>
-
+    <title>Random city discoverer</title>
+    <link rel="stylesheet" href="main.css">
     <!-- <script type="module" src="townData.mjs"></script> -->
-    <script type="module" src="main.mjs"></script>
+    <script src="main.mjs"></script> <!-- type="module" -->
   </head>
 
-  <body>
-    <h1>Search for a new city below</h1>
-    <h1>or discover randomly</h1>
-    <input id="search_input" type="text" name="" value="San Francisco">
-    <cityList id="cityList"></cityList>
+  <body style="background: linear-gradient(-0.08turn, #f36d45, #f18b47, #eea448)">
+    <div class="titleAndSearch">
+      <h1>Random city discoverer</h1>
+    </div>
+    <div id="cityList"></div>
   </body>
 </html>
