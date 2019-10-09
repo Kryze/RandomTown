@@ -167,38 +167,51 @@
 	"contributor" : "Dionysis Nikolopoulos"
 }
 {
-      "id" : 14,
-      "town" : "Fortaleza",
-      "country" : "Brazil",
-      "description" : "Fortaleza is a capital of the state of Ceará, in northeastern Brazil. The city is known for its beaches, with red cliffs, palm trees, dunes and lagoons",
-      "pictureUrl" : "https://blog.bluesol.com.br/wp-content/uploads/2019/02/Energia-Solar-Em-Fortaleza-Informa%C3%A7%C3%B5es-e-Or%C3%A7amento-Gr%C3%A1tis-_-capa-blog-752x440.jpg",
-      "coordinates":{
-        "latitude": "-3.71839", 
-        "longitude": "-38.5434 3"
-      },
-      "contributor" : "1bertovalente"
+  "id" : 14,
+  "town" : "Fortaleza",
+  "country" : "Brazil",
+  "description" : "Fortaleza is a capital of the state of Ceará, in northeastern Brazil. The city is known for its beaches, with red cliffs, palm trees, dunes and lagoons",
+  "pictureUrl" : "https://blog.bluesol.com.br/wp-content/uploads/2019/02/Energia-Solar-Em-Fortaleza-Informa%C3%A7%C3%B5es-e-Or%C3%A7amento-Gr%C3%A1tis-_-capa-blog-752x440.jpg",
+  "coordinates":{
+    "latitude": "-3.71839", 
+    "longitude": "-38.5434 3"
+  },
+  "contributor" : "1bertovalente"
 },
 {
-      "id" : 15,
-      "town" : "Borken",
-      "country" : "Germany",
-      "description" : "Borken is a small city in the West of Germany with a heritage tracing back into medieval times, with castles and towers being remnants of those days. With it's surrounding municipality it's the home of approximately 42000 residents.",
-      "pictureUrl" : "https://www.borken.de/fileadmin/daten/mandanten/kreisstadt/Bilder/Fotos/Touristik/Stadtt%C3%BCrme___Innenstadt/Markt_23.jpg",
-      "coordinates":{
-        "latitude": "6.866000",
-        "longitude": "51.851000"
-      },
-      "contributor" : "sthaeling"
+  "id" : 15,
+  "town" : "Borken",
+  "country" : "Germany",
+  "description" : "Borken is a small city in the West of Germany with a heritage tracing back into medieval times, with castles and towers being remnants of those days. With it's surrounding municipality it's the home of approximately 42000 residents.",
+  "pictureUrl" : "https://www.borken.de/fileadmin/daten/mandanten/kreisstadt/Bilder/Fotos/Touristik/Stadtt%C3%BCrme___Innenstadt/Markt_23.jpg",
+  "coordinates":{
+    "latitude": "6.866000",
+    "longitude": "51.851000"
+  },
+  "contributor" : "sthaeling"
 },
 {
-      "id" : 16,
-      "town" : "",
-      "country" : "",
-      "description" : "",
-      "pictureUrl" : "",
-      "coordinates":{
-        "latitude": "",
-        "longitude": ""
-      },
-      "contributor" : ""
+  "id" : 16,
+  "town" : "Moab",
+  "country" : "United States",
+  "description" : "Moab is home to some of the most beatufiful terrain in the United States. Thousands of people from all around the world visit Moab to hike, rock climb, and mountain bike.",
+  "pictureUrl" : "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2015/03/6991802863_afeeb91e67_k.jpg",
+  "coordinates":{
+    "latitude": "38.5733",
+    "longitude": "109.5498"
+  },
+  "contributor" : "joeblas"
 },
+{
+  "id": 17,
+  "town": "",
+  "country": "", 
+  "description": "",
+  "pictureUrl": "",
+  "coordinates": {
+    "latitude": "",
+    "longitude": ""
+  },
+  "contributor": ""
+  
+}
