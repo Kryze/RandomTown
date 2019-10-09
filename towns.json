@@ -202,3 +202,15 @@
       },
       "contributor" : ""
 },
+{
+      "id" : 17,
+      "town" : "Indaial",
+      "country" : "Brasil",
+      "description" : "Cidade de porte médio, com quase 70 mil habitantes",
+      "pictureUrl" : "https://eyechannel.com.br/wp-content/uploads/2018/08/processo-seletivo-indaial-sc-2018.png",
+      "coordinates":{
+        "latitude": "-26.8975",
+        "longitude": "-49.2317"
+      },
+      "contributor" : "alesandro"
+},
