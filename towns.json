@@ -167,50 +167,118 @@
 	"contributor" : "Dionysis Nikolopoulos"
 }
 {
-      "id" : 14,
-      "town" : "Fortaleza",
-      "country" : "Brazil",
-      "description" : "Fortaleza is a capital of the state of Ceará, in northeastern Brazil. The city is known for its beaches, with red cliffs, palm trees, dunes and lagoons",
-      "pictureUrl" : "https://blog.bluesol.com.br/wp-content/uploads/2019/02/Energia-Solar-Em-Fortaleza-Informa%C3%A7%C3%B5es-e-Or%C3%A7amento-Gr%C3%A1tis-_-capa-blog-752x440.jpg",
-      "coordinates":{
-        "latitude": "-3.71839", 
-        "longitude": "-38.5434 3"
-      },
-      "contributor" : "1bertovalente"
+  "id" : 14,
+  "town" : "Fortaleza",
+  "country" : "Brazil",
+  "description" : "Fortaleza is a capital of the state of Ceará, in northeastern Brazil. The city is known for its beaches, with red cliffs, palm trees, dunes and lagoons",
+  "pictureUrl" : "https://blog.bluesol.com.br/wp-content/uploads/2019/02/Energia-Solar-Em-Fortaleza-Informa%C3%A7%C3%B5es-e-Or%C3%A7amento-Gr%C3%A1tis-_-capa-blog-752x440.jpg",
+  "coordinates":{
+    "latitude": "-3.71839", 
+    "longitude": "-38.5434 3"
+  },
+  "contributor" : "1bertovalente"
 },
 {
-      "id" : 15,
-      "town" : "Borken",
-      "country" : "Germany",
-      "description" : "Borken is a small city in the West of Germany with a heritage tracing back into medieval times, with castles and towers being remnants of those days. With it's surrounding municipality it's the home of approximately 42000 residents.",
-      "pictureUrl" : "https://www.borken.de/fileadmin/daten/mandanten/kreisstadt/Bilder/Fotos/Touristik/Stadtt%C3%BCrme___Innenstadt/Markt_23.jpg",
-      "coordinates":{
-        "latitude": "6.866000",
-        "longitude": "51.851000"
-      },
-      "contributor" : "sthaeling"
+  "id" : 15,
+  "town" : "Borken",
+  "country" : "Germany",
+  "description" : "Borken is a small city in the West of Germany with a heritage tracing back into medieval times, with castles and towers being remnants of those days. With it's surrounding municipality it's the home of approximately 42000 residents.",
+  "pictureUrl" : "https://www.borken.de/fileadmin/daten/mandanten/kreisstadt/Bilder/Fotos/Touristik/Stadtt%C3%BCrme___Innenstadt/Markt_23.jpg",
+  "coordinates":{
+    "latitude": "6.866000",
+    "longitude": "51.851000"
+  },
+  "contributor" : "sthaeling"
 },
 {
-      "id" : 16,
-      "town" : "San Diego",
-      "country" : "USA",
-      "description" : "San Diego is the eighth-largest city in the United States. It is known for having year-round summer climate with extensive miles of beautiful coastlines. The city has also recently emerged as a center of research for healthcare and biotechnology.",
-      "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/1/17/San_Diego%2C_CA_USA_-_View_from_Coronado_-_panoramio.jpg",
-      "coordinates":{
-        "latitude": "32.7157",
-        "longitude": "117.1611"
-      },
-      "contributor" : "m6ng"
+  "id" : 16,
+  "town" : "Tauranga",
+  "country" : "New Zealand",
+  "description" : "A port city on the east coast of New Zealand, has the biggest sea port in the country and thrives on Kiwifruit exports",
+  "pictureUrl" : "https://en.wikipedia.org/wiki/Tauranga#/media/File:Mount_Maunganui-2952.jpg",
+  "coordinates":{
+    "latitude": "37.6878",
+    "longitude": "176.1651"
+  },
+  "contributor" : "DeliciousCheese"
 },
 {
   "id" : 17,
-  "town" : "",
-  "country" : "",
-  "description" : "",
-  "pictureUrl" : "",
+  "town" : "Nagpur",
+  "country" : "India",
+  "description" : "Nagpur is a large city in the central Indian state of Maharashtra. The 19th-century Nagpur Central Museum displays items found locally, including fossils, sarcophagi and Mughal weaponry.",
+  "pictureUrl" : "https://www.newsclick.in/sites/default/files/2019-04/nagpur%20nana%20patole%20gadkari.PNG",
   "coordinates":{
-    "latitude": "",
-    "longitude": ""
+    "latitude": "21.146633",
+    "longitude": "79.088860"
   },
-  "contributor" : ""
+  "contributor" : "nikznk"
 },
+{
+  "id" : 18,
+  "town" : "Taupo",
+  "country" : "New Zealand",
+  "description" : "The town of Taupō sits at the edge of Australasia's largest lake. Local attractions include trout fishing, mountain biking, skiing, and geothermal parks.",
+  "pictureUrl" : "https://ap.ironman.com/~/media/7c3f5cdaaa9745a4976cdd3dd3ce1f1e/taupo%20lake%20drone.jpg?w=1600&h=980&c=1",
+  "coordinates":{
+    "latitude": "38.6857",
+    "longitude": "176.0702"
+  },
+  "contributor" : "Phobi-Wan"
+},
+{
+  "id" : 19,
+  "town" : "Sacramento",
+  "country" : "United States",
+  "description" : "Sacramento is the capital of the State of California and is the fifth largest city in the state. Sacramento has a Mediterranean climate characterized by mild winters and dry summers.",
+  "pictureUrl" : "https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/vc_spotlightsacramento_sacramento_st_rf_187559989_1280x640.jpg",
+  "coordinates":{
+    "latitude": "38.575764",
+    "longitude": "-121.478851"
+  },
+  "contributor" : "christinetu"
+},
+{
+  "id" : 20,
+  "town" : "Indaial",
+  "country" : "Brasil",
+  "description" : "Cidade de porte médio, com quase 70 mil habitantes",
+  "pictureUrl" : "https://eyechannel.com.br/wp-content/uploads/2018/08/processo-seletivo-indaial-sc-2018.png",
+  "coordinates":{
+    "latitude": "-26.8975",
+    "longitude": "-49.2317"
+  },
+  "contributor" : "alesandro"
+},
+{
+  "id" : 21,
+  "town" : "Moab",
+  "country" : "United States",
+  "description" : "Moab is home to some of the most beatufiful terrain in the United States. Thousands of people from all around the world visit Moab to hike, rock climb, and mountain bike.",
+  "pictureUrl" : "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2015/03/6991802863_afeeb91e67_k.jpg",
+  "coordinates":{
+    "latitude": "38.573315",
+    "longitude": "-109.549843"
+  },
+  "contributor" : "joeblas"
+},
+{
+  "id": 22,
+  "town": "Pinetown",
+  "country": "South Africa",
+  "description": "Pinetown is a town that is part of the eThekwini Metropolitan Municipality, just inland from Durban in KwaZulu-Natal, South Africa. Pinetown has a population of 144,026 acording to the 2011 census. 55.4% of residence speak isiZulu, 31.4% speak English, 3.8% speak Afrikaans, and 3.3% speak isiXhosa.",
+  "pictureUrl": "https://commons.wikimedia.org/wiki/File:Pinetown_N3_-_panoramio.jpg",
+  "contributor": "terayza"
+},
+{
+  "id" : 23,
+  "town" : "San Diego",
+  "country" : "USA",
+  "description" : "San Diego is the eighth-largest city in the United States. It is known for having year-round summer climate with extensive miles of beautiful coastlines. The city has also recently emerged as a center of research for healthcare and biotechnology.",
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/1/17/San_Diego%2C_CA_USA_-_View_from_Coronado_-_panoramio.jpg",
+  "coordinates":{
+    "latitude": "32.7157",
+    "longitude": "117.1611"
+  },
+  "contributor" : "m6ng"
+}
