@@ -192,13 +192,25 @@
 },
 {
       "id" : 16,
-      "town" : "",
-      "country" : "",
-      "description" : "",
-      "pictureUrl" : "",
+      "town" : "San Diego",
+      "country" : "USA",
+      "description" : "San Diego is the eighth-largest city in the United States. It is known for having year-round summer climate with extensive miles of beautiful coastlines. The city has also recently emerged as a center of research for healthcare and biotechnology.",
+      "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/1/17/San_Diego%2C_CA_USA_-_View_from_Coronado_-_panoramio.jpg",
       "coordinates":{
-        "latitude": "",
-        "longitude": ""
+        "latitude": "32.7157",
+        "longitude": "117.1611"
       },
-      "contributor" : ""
+      "contributor" : "m6ng"
+},
+{
+  "id" : 17,
+  "town" : "",
+  "country" : "",
+  "description" : "",
+  "pictureUrl" : "",
+  "coordinates":{
+    "latitude": "",
+    "longitude": ""
+  },
+  "contributor" : ""
 },
