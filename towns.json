@@ -192,6 +192,42 @@
 },
 {
       "id" : 16,
+      "town" : "Tauranga",
+      "country" : "New Zealand",
+      "description" : "A port city on the east coast of New Zealand, has the biggest sea port in the country and thrives on Kiwifruit exports",
+      "pictureUrl" : "https://en.wikipedia.org/wiki/Tauranga#/media/File:Mount_Maunganui-2952.jpg",
+      "coordinates":{
+        "latitude": "37.6878",
+        "longitude": "176.1651"
+      },
+      "contributor" : "DeliciousCheese"
+},
+{
+      "id" : 17,
+      "town" : "Nagpur",
+      "country" : "India",
+      "description" : "Nagpur is a large city in the central Indian state of Maharashtra. The 19th-century Nagpur Central Museum displays items found locally, including fossils, sarcophagi and Mughal weaponry.",
+      "pictureUrl" : "https://www.newsclick.in/sites/default/files/2019-04/nagpur%20nana%20patole%20gadkari.PNG",
+      "coordinates":{
+        "latitude": "21.146633",
+        "longitude": "79.088860"
+      },
+      "contributor" : "nikznk"
+},
+{
+      "id" : 18,
+      "town" : "Taupo",
+      "country" : "New Zealand",
+      "description" : "The town of Taupō sits at the edge of Australasia's largest lake. Local attractions include trout fishing, mountain biking, skiing, and geothermal parks.",
+      "pictureUrl" : "https://ap.ironman.com/~/media/7c3f5cdaaa9745a4976cdd3dd3ce1f1e/taupo%20lake%20drone.jpg?w=1600&h=980&c=1",
+      "coordinates":{
+        "latitude": "38.6857",
+        "longitude": "176.0702"
+      },
+      "contributor" : "Phobi-Wan"
+},
+{
+      "id" : 19,
       "town" : "Sacramento",
       "country" : "United States",
       "description" : "Sacramento is the capital of the State of California and is the fifth largest city in the state. Sacramento has a Mediterranean climate characterized by mild winters and dry summers.",
@@ -201,16 +237,4 @@
         "longitude": "-121.478851"
       },
       "contributor" : "christinetu"
-},
-{
-  "id" : 17,
-  "town" : "",
-  "country" : "",
-  "description" : "",
-  "pictureUrl" : "",
-  "coordinates":{
-    "latitude": "",
-    "longitude": ""
-  },
-  "contributor" : ""
-},
+}
