@@ -192,6 +192,18 @@
 },
 {
       "id" : 16,
+      "town" : "Tauranga",
+      "country" : "New Zealand",
+      "description" : "A port city on the east coast of New Zealand, has the biggest sea port in the country and thrives on Kiwifruit exports",
+      "pictureUrl" : "https://en.wikipedia.org/wiki/Tauranga#/media/File:Mount_Maunganui-2952.jpg",
+      "coordinates":{
+        "latitude": "37.6878",
+        "longitude": "176.1651"
+      },
+      "contributor" : "DeliciousCheese"
+},
+{
+      "id" : 17,
       "town" : "",
       "country" : "",
       "description" : "",
