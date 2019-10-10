@@ -225,4 +225,16 @@
         "longitude": "176.0702"
       },
       "contributor" : "Phobi-Wan"
+},
+{
+      "id" : 19,
+      "town" : "Sacramento",
+      "country" : "United States",
+      "description" : "Sacramento is the capital of the State of California and is the fifth largest city in the state. Sacramento has a Mediterranean climate characterized by mild winters and dry summers.",
+      "pictureUrl" : "https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/vc_spotlightsacramento_sacramento_st_rf_187559989_1280x640.jpg",
+      "coordinates":{
+        "latitude": "38.575764",
+        "longitude": "-121.478851"
+      },
+      "contributor" : "christinetu"
 }
