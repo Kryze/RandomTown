@@ -12,9 +12,12 @@
 # What is RandomTown ?
 
 RandomTown is a project made to help people discover open-source.
+
 The intended goal is to get a few town in a JSON file and to use it later for a small application.
+
 The simplest way to contribute is to add a town, a picture and a description.
-In the end, we hope to get a list of towns randomly choose by contributors !
+
+In the end, we hope to get a list of towns randomly chosen by contributors !
 
 # Contributing
 
