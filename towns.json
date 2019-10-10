@@ -192,6 +192,18 @@
 },
 {
       "id" : 16,
+      "town" : "Aracati",
+      "country" : "Brazil",
+      "description" : "Terra dos Bons Ventos, é um município do estado do Ceará, no Brasil, a 150 km da capital cearense Fortaleza, fundada em 11 de abril de 1747, teve o núcleo urbano sede do município tombado em 2000 pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN) como patrimônio nacional. É a terra onde nasceu o Revolucionário Eduardo Angelim, e também o romancista Adolfo Caminha, o primeiro bispo cearense, Dom Manuel do Rego Medeiros, o abolicionista Dragão do Mar, o ator Emiliano Queiroz e o pianista clássico Jacques Klein.",
+      "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Canoa_Quebrada_%282%29.jpg/600px-Canoa_Quebrada_%282%29.jpg",
+      "coordinates":{
+        "latitude": "-4.561355",
+        "longitude": "-37.768531"
+      },
+      "contributor" : "thiivalente"
+},
+{
+      "id" : 17,
       "town" : "",
       "country" : "",
       "description" : "",
