@@ -261,4 +261,12 @@
     "longitude": "-109.549843"
   },
   "contributor" : "joeblas"
+},
+{
+      "id": 22,
+      "town": "Pinetown",
+      "country": "South Africa",
+      "description": "Pinetown is a town that is part of the eThekwini Metropolitan Municipality, just inland from Durban in KwaZulu-Natal, South Africa. Pinetown has a population of 144,026 acording to the 2011 census. 55.4% of residence speak isiZulu, 31.4% speak English, 3.8% speak Afrikaans, and 3.3% speak isiXhosa.",
+      "pictureUrl": "https://commons.wikimedia.org/wiki/File:Pinetown_N3_-_panoramio.jpg",
+      "contributor": "terayza"
 }
