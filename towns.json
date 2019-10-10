@@ -204,13 +204,13 @@
 },
 {
       "id" : 17,
-      "town" : "",
-      "country" : "",
-      "description" : "",
-      "pictureUrl" : "",
+      "town" : "Nagpur",
+      "country" : "India",
+      "description" : "Nagpur is a large city in the central Indian state of Maharashtra. The 19th-century Nagpur Central Museum displays items found locally, including fossils, sarcophagi and Mughal weaponry.",
+      "pictureUrl" : "https://www.newsclick.in/sites/default/files/2019-04/nagpur%20nana%20patole%20gadkari.PNG",
       "coordinates":{
-        "latitude": "",
-        "longitude": ""
+        "latitude": "21.146633",
+        "longitude": "79.088860"
       },
-      "contributor" : ""
-},
+      "contributor" : "nikznk"
+}
