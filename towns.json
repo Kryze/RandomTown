@@ -281,4 +281,16 @@
     "longitude": "117.1611"
   },
   "contributor" : "m6ng"
+},
+{
+  "id" : 24,
+  "town" : "Cincinnati, OH",
+  "country" : "USA",
+  "description" : "Cincinnati is a major city in the U.S. state of Ohio, and is the government seat of Hamilton County. Settled in 1788, the city is located at the northern side of the confluence of the Licking and Ohio rivers, the latter of which marks the state line with Kentucky. With a city population estimated at 302,605, Cincinnati is the third-largest city in Ohio and 65th in the United States. Cincinnati is also within a day's drive of 49.70% of the United States populace.",
+  "pictureUrl" : "https://cdn.pixabay.com/photo/2013/02/04/03/45/cincinnati-77725_1280.jpg",
+  "coordinates":{
+    "latitude": "39.1031182",
+    "longitude": "-84.5120196"
+  },
+  "contributor" : "alexxmitchell"
 }
