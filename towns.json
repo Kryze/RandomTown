@@ -263,14 +263,26 @@
   "contributor" : "joeblas"
 },
 {
-      "id": 22,
-      "town": "Pinetown",
-      "country": "South Africa",
-      "description": "Pinetown is a town that is part of the eThekwini Metropolitan Municipality, just inland from Durban in KwaZulu-Natal, South Africa. Pinetown has a population of 144,026 acording to the 2011 census. 55.4% of residence speak isiZulu, 31.4% speak English, 3.8% speak Afrikaans, and 3.3% speak isiXhosa.",
-      "pictureUrl": "https://commons.wikimedia.org/wiki/File:Pinetown_N3_-_panoramio.jpg",
-      "coordinates":{
-            "latitude": "29°49′S", 
-            "longitude": "30°51′E"
-      },
-      "contributor": "terayza"
+  "id": 22,
+  "town": "Pinetown",
+  "country": "South Africa",
+  "description": "Pinetown is a town that is part of the eThekwini Metropolitan Municipality, just inland from Durban in KwaZulu-Natal, South Africa. Pinetown has a population of 144,026 acording to the 2011 census. 55.4% of residence speak isiZulu, 31.4% speak English, 3.8% speak Afrikaans, and 3.3% speak isiXhosa.",
+  "pictureUrl": "https://commons.wikimedia.org/wiki/File:Pinetown_N3_-_panoramio.jpg",
+  "coordinates":{
+        "latitude": "29°49′S", 
+        "longitude": "30°51′E"
+  },
+  "contributor": "terayza"
+},
+{
+  "id" : 23,
+  "town" : "San Diego",
+  "country" : "USA",
+  "description" : "San Diego is the eighth-largest city in the United States. It is known for having year-round summer climate with extensive miles of beautiful coastlines. The city has also recently emerged as a center of research for healthcare and biotechnology.",
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/1/17/San_Diego%2C_CA_USA_-_View_from_Coronado_-_panoramio.jpg",
+  "coordinates":{
+    "latitude": "32.7157",
+    "longitude": "117.1611"
+  },
+  "contributor" : "m6ng"
 }
