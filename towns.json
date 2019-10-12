@@ -268,6 +268,10 @@
   "country": "South Africa",
   "description": "Pinetown is a town that is part of the eThekwini Metropolitan Municipality, just inland from Durban in KwaZulu-Natal, South Africa. Pinetown has a population of 144,026 acording to the 2011 census. 55.4% of residence speak isiZulu, 31.4% speak English, 3.8% speak Afrikaans, and 3.3% speak isiXhosa.",
   "pictureUrl": "https://commons.wikimedia.org/wiki/File:Pinetown_N3_-_panoramio.jpg",
+  "coordinates":{
+        "latitude": "29°49′S", 
+        "longitude": "30°51′E"
+  },
   "contributor": "terayza"
 },
 {
@@ -283,7 +287,19 @@
   "contributor" : "m6ng"
 },
 {
-    "id" : 24,
+  "id" : 24,
+  "town" : "Cincinnati, OH",
+  "country" : "USA",
+  "description" : "Cincinnati is a major city in the U.S. state of Ohio, and is the government seat of Hamilton County. Settled in 1788, the city is located at the northern side of the confluence of the Licking and Ohio rivers, the latter of which marks the state line with Kentucky. With a city population estimated at 302,605, Cincinnati is the third-largest city in Ohio and 65th in the United States. Cincinnati is also within a day's drive of 49.70% of the United States populace.",
+  "pictureUrl" : "https://cdn.pixabay.com/photo/2013/02/04/03/45/cincinnati-77725_1280.jpg",
+  "coordinates":{
+    "latitude": "39.1031182",
+    "longitude": "-84.5120196"
+  },
+  "contributor" : "alexxmitchell"
+},
+{
+  "id" : 25,
   "town" : "Lviv",
   "country" : "Ukraine",
   "description" : "Lviv is a city in the west of Ukraine, about 70 kilometers from the border with Poland. The architecture of the city keeps traces of Polish and Austro-Hungarian heritage and combines the styles of Eastern and Central Europe, namely Italy and Germany. In the High Castle park on top of the mountain, the ruins of a 14th-century fortress have been preserved. It offers panoramic views of the green domes of churches and the hills surrounding the city.",
