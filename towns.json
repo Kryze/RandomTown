@@ -281,4 +281,16 @@
     "longitude": "117.1611"
   },
   "contributor" : "m6ng"
+},
+{
+    "id" : 24,
+  "town" : "Lviv",
+  "country" : "Ukraine",
+  "description" : "Lviv is a city in the west of Ukraine, about 70 kilometers from the border with Poland. The architecture of the city keeps traces of Polish and Austro-Hungarian heritage and combines the styles of Eastern and Central Europe, namely Italy and Germany. In the High Castle park on top of the mountain, the ruins of a 14th-century fortress have been preserved. It offers panoramic views of the green domes of churches and the hills surrounding the city.",
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D0%9B%D0%B2%D0%BE%D0%B2_%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D0%B8%D1%98%D0%B0.jpg/405px-%D0%9B%D0%B2%D0%BE%D0%B2_%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D0%B8%D1%98%D0%B0.jpg",
+  "coordinates":{
+    "latitude": "49.83",
+    "longitude": "24.014167"
+  },
+  "contributor" : "SiR_JoraH21"
 }
