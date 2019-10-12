@@ -309,4 +309,16 @@
     "longitude": "24.014167"
   },
   "contributor" : "SiR_JoraH21"
+},
+{
+  "id" : 26,
+  "town" : "Berlin",
+  "country" : "Germany",
+  "description" : "Berlin is the capital and largest city of Germany by both area and population. Its 3,748,148 (2018) inhabitants make it the second most populous city proper of the European Union after London.",
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Reichstag_building_Berlin_view_from_west_before_sunset.jpg/1920px-Reichstag_building_Berlin_view_from_west_before_sunset.jpg",
+  "coordinates":{
+    "latitude": "52.520008",
+    "longitude": "13.404954"
+  },
+  "contributor" : "Arendt"
 }
