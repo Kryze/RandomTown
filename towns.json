@@ -288,5 +288,9 @@
   "country": "Israel",
   "description": "Haifa is the third largest city in israel. It is built on the slopes of mount Carmel and is a major port city in israel. It is also known for being home to the Bahai World Center and is an UNESCO World Heritage Site.",
   "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Western_Haifa_from_the_air.jpg",
+   "coordinates":{
+    "latitude": "32.7940",
+    "longitude": "34.9896"
+  },
   "contributor": "ron-popov"
 },
