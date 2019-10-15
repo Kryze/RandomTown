@@ -333,4 +333,16 @@
     "longitude": "13.404954"
   },
   "contributor" : "Arendt"
+},
+{
+  "id" : 28,
+  "town" : "Lisbon",
+  "country" : "Portugal",
+  "description" : "Lisbon is one of the oldest cities in the world, and the second-oldest European capital city (after Athens), predating other modern European capitals by centuries.",
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg/1280px-Torre_Bel%C3%A9m_April_2009-4a.jpg",
+  "coordinates":{
+   "latitude": "38.725267", 
+   "longitude": "-9.150019"
+  },
+  "contributor" : "AndreVarandas"
 }
