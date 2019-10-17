@@ -333,4 +333,16 @@
     "longitude": "13.404954"
   },
   "contributor" : "Arendt"
+},
+{
+  "id" : 28,
+  "town" : "Dhaka",
+  "country" : "Bangladesh",
+  "description" : "Dhaka city is the capital of Bangladesh. It is located just north of the Buriganga River, in the south-central part of the country. Dhaka is Bangladesh’s most populous city and is one of the largest metropolises in South Asia.",
+  "pictureUrl" : "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/dhaka-1_0.jpg?itok=gBgCDfZC",
+  "coordinates":{
+    "latitude": "23.810300",
+    "longitude": "90.4125"
+  },
+  "contributor" : "Rafed"
 }
