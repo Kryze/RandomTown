@@ -333,4 +333,16 @@
     "longitude": "13.404954"
   },
   "contributor" : "Arendt"
+},
+{
+  "id" : 28,
+  "town" : "Porto",
+  "country" : "Portugal",
+  "description" : "Porto, also known as Oporto in some languages, is the second-largest city in Portugal, one of the Iberian Peninsula's major urban areas, famous for Port wine",
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lu%C3%ADs_I_Bridge%2C_Porto%2C_Portugal.jpg/800px-Lu%C3%ADs_I_Bridge%2C_Porto%2C_Portugal.jpg",
+  "coordinates":{
+    "latitude": "41.162142",
+    "longitude": "-8.621953"
+  },
+  "contributor" : "AndreBravoFerreira"
 }
