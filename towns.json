@@ -334,3 +334,15 @@
   },
   "contributor" : "Arendt"
 }
+{
+  "id": 28,
+  "town": "Reno",
+  "country": "US",
+  "description": "Reno is a city in the northwest section of the U.S. state of Nevada, approximately 35 km from Lake Tahoe, known as 'The Biggest Little City in the World'.",
+  "pictureUrl": "https://en.wikipedia.org/wiki/File:Reno_skyline.JPG",
+  "coordinates":{
+    "latitude": "39.530895",
+    "longitude": "-119.814972"
+  },
+  "contributor": "TileThePlane"
+},
