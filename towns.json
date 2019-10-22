@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 0,
   "town": "Markham",
   "country": "Canada",
@@ -333,4 +333,16 @@
     "longitude": "13.404954"
   },
   "contributor" : "Arendt"
+},
+{
+  "id" : 28,
+  "town" : "Warsaw",
+  "country" : "Poland",
+  "description" : "Warsaw is the capital of Poland. During World War II, 90% of the buildings had been completely destroyed. After the war Warsaw was rebuilt according to pre-war plans and historical documents.",
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/6/67/2017-05-27_Plac_Zamkowy_w_Warszawie_1.jpg",
+  "coordinates":{
+    "latitude": "52.22977",
+    "longitude": "21.01178"
+  },
+  "contributor" : "zomsik"
 }
