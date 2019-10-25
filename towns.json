@@ -334,3 +334,15 @@
   },
   "contributor" : "Arendt"
 }
+{
+  "id" : 29,
+  "town" : "Bialystok",
+  "country" : "Poland",
+  "description" : "is the largest city in northeastern Poland and the capital of the Podlaskie Voivodeship. Białystok is the tenth-largest city in Poland, second in terms of population density, and thirteenth in area.",
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/2/23/Bia%C5%82ystok.jpg",
+  "coordinates":{
+    "latitude": "53.135278",
+    "longitude": "23.145556"
+  },
+  "contributor" : "xDanielQ"
+}
