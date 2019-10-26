@@ -333,4 +333,16 @@
     "longitude": "13.404954"
   },
   "contributor" : "Arendt"
+},
+{
+  "id" : 28,
+  "town" : "Yogyakarta",
+  "country" : "Indonesia",
+  "description" : "Yogyakarta is the capital of the Yogyakarta Sultanate and served as the Indonesian capital from 1946 to 1948 during the Indonesian National Revolution, with Gedung Agung as the president's office. One of the districts in southeastern Yogyakarta, Kotagede, was the capital of the Mataram Sultanate between 1587 and 1613. ",
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/5/54/Montage_of_Yogyakarta.jpg",
+  "coordinates":{
+    "latitude": "-7.801389",
+    "longitude": "110.364444"
+  },
+  "contributor" : "0length"
 }
